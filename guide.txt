@@ -1,0 +1,28 @@
+GitHub:
+============
+Website link: https://github.com/balqism/student-at-risk-prediction
+
+Username: balqism
+Pwd:  Balqis123@@
+email:b.albraiki@hotmail.com
+
+
+Heroku:
+Username: b.albraiki@hotmail.com
+Pwd :balqis@12345
+
+
+
+GradePrediction2.ipynb  - Notebook for prediction using  Historic data
+GradePrediction3.ipynb - Notebook for prediction using  Combined data
+
+streamlit_student_grade_prediction1.pkl --- Pretrained model file for combined feature prediction 
+streamlit_student_grade_prediction2.pkl --- Pretrained model file for Historical feature prediction 
+
+studentgradeprediction.py -- User Interface python file for any changes in the Userinterface
+
+CombinedFeatures.csv file -- for combined features
+HistoricAttributes.csv file -- for Historical features
+
+
+
